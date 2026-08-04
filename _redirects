@@ -1,1 +1,3 @@
 /index.php / 301
+/netherlands-nl/* /lucky-pays-nl/:splat 301
+/nl-NL/* /lucky-pays-nl/:splat 301
