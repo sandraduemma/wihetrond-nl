@@ -1,3 +1,4 @@
 /index.php / 301
-/netherlands-nl/* /lucky-pays-nl/:splat 301
-/nl-NL/* /lucky-pays-nl/:splat 301
+/lucky-pays-nl/* /lucky-pays-casino-nl/:splat 301
+/netherlands-nl/* /lucky-pays-casino-nl/:splat 301
+/nl-NL/* /lucky-pays-casino-nl/:splat 301
